@@ -52,7 +52,7 @@ python3 ./main.py \
 Note that you need to modify the corresponding path.
 
 ## Inference 
-Users can test the [TTHF models](https://www.alipan.com/s/5xfCZS1kCCc) (Extraction code: 65fv) on DoTA or DADA-2000 dataset easily by runing the following command:
+Users can test the [TTHF models](https://pan.baidu.com/s/19ZHJ1hykRyFUfJHPTrb9Ig) (Extraction code: rb9k) on DoTA or DADA-2000 dataset easily by runing the following command:
 
 For DoTA:
 ```
